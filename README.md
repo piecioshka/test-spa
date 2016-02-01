@@ -2,6 +2,10 @@
 
 > :ledger: Testowa aplikacja SPA na potrzeby dydaktyczne.
 
+## Jak to działa?
+
+Demo dostępne tutaj: http://piecioshka.github.io/test-spa/
+
 ## Wykorzystanie
 
 Używam biblioteki **jQuery**, aby w łatwy sposób:
@@ -25,3 +29,7 @@ Używam biblioteki **jQuery**, aby w łatwy sposób:
 
 3 directories, 6 files
 ```
+
+## Licencja
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2016

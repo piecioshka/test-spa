@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "test-spa",
+    "scripts": {
+        "deploy": "node tasks/deploy.js"
+    },
+    "devDependencies": {
+        "gh-pages": "^0.9.0"
+    }
+}
