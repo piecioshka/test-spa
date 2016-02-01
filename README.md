@@ -18,16 +18,21 @@ Używam biblioteki **jQuery**, aby w łatwy sposób:
 ```
 .
 ├── README.md
-└── app
-    ├── index.html
-    ├── scripts
-    │   └── main.js
-    └── templates
-        ├── about.html
-        ├── contact.html
-        └── home.html
+├── app
+│   ├── index.html
+│   ├── scripts
+│   │   └── main.js
+│   └── templates
+│       ├── about.html
+│       ├── contact.html
+│       └── home.html
+├── package.json
+└── tasks
+    ├── common
+    │   └── paths.js
+    └── deploy.js
 
-3 directories, 6 files
+5 directories, 9 files
 ```
 
 ## Licencja
